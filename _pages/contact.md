@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: Contact uS
+post_title: Contact Us
 author: sgohn
 post_excerpt: ""
 layout: page
