@@ -1,6 +1,6 @@
 ---
 ID: 86
-post_title: Home
+post_title: HOME
 author: sgohn
 post_excerpt: ""
 layout: page
