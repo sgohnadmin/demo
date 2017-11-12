@@ -1,10 +1,11 @@
 ---
-ID: 7
+ID: 86
 post_title: Home
 author: sgohn
 post_excerpt: ""
 layout: page
-permalink: http://localhost:8888/wordpress/demo/
+permalink: >
+  http://localhost:8888/wordpress/demo/home/
 published: true
-post_date: 2017-09-24 20:39:08
+post_date: 2017-11-12 20:40:52
 ---
