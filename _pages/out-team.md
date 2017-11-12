@@ -1,6 +1,6 @@
 ---
 ID: 93
-post_title: OUT TEAM
+post_title: OUR TEAM
 author: sgohn
 post_excerpt: ""
 layout: page
