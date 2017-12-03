@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
-<img class="main-content-area.full" src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/11/097_SARDINAS-e1509926811439.jpg" alt="" />
+<img class="full" src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/11/097_SARDINAS-e1509926811439.jpg" alt="" />
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras facilisis lorem at justo sodales ullamcorper. Donec dui ipsum, euismod eget mollis id, laoreet sed est. Aenean ullamcorper nibh sit amet tristique blandit. Mauris scelerisque maximus tortor, pharetra finibus diam tempus et. Aliquam augue libero, tempus sed nisl in, congue elementum nisl. Curabitur semper nec purus ac consectetur. In varius ullamcorper tortor ac sodales. Nulla sodales ex vitae nunc mollis, id facilisis ligula consequat. Mauris molestie massa vitae maximus porttitor. Phasellus commodo semper tortor, vel commodo augue commodo et. Mauris euismod nec odio in vulputate. Nullam ac nisi vel leo lobortis consequat.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque sapien, placerat at accumsan nec, elementum nec velit. Vivamus et eleifend odio, vel cursus nunc. Mauris elementum metus eu nibh tempor, ut rutrum risus fringilla. Maecenas non justo in dui placerat pellentesque ut at nulla. Duis ac fermentum quam. Phasellus pharetra eros eu nunc iaculis aliquet. Nulla non efficitur ex.
