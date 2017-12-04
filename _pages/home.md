@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><img class ="main-page" src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/bricks-1.jpg">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras facilisis lorem at justo sodales ullamcorper. Donec dui ipsum, euismod eget mollis id, laoreet sed est. Aenean ullamcorper nibh sit amet tristique blandit. Mauris scelerisque maximus tortor, pharetra finibus diam tempus et. Aliquam augue libero, tempus sed nisl in, congue elementum nisl. Curabitur semper nec purus ac consectetur. In varius ullamcorper tortor ac sodales. Nulla sodales ex vitae nunc mollis, id facilisis ligula consequat. Mauris molestie massa vitae maximus porttitor. Phasellus commodo semper tortor, vel commodo augue commodo et. Mauris euismod nec odio in vulputate. Nullam ac nisi vel leo lobortis consequat.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque sapien, placerat at accumsan nec, elementum nec velit. Vivamus et eleifend odio, vel cursus nunc. Mauris elementum metus eu nibh tempor, ut rutrum risus fringilla. Maecenas non justo in dui placerat pellentesque ut at nulla. Duis ac fermentum quam. Phasellus pharetra eros eu nunc iaculis aliquet. Nulla non efficitur ex.
