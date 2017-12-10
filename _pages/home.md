@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
-<img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width="500" height="203" class="alignnone size-full wp-image-57" />
+<img class="alignnone size-full wp-image-57" src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width="300"  />
