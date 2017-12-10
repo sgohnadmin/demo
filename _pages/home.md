@@ -19,3 +19,12 @@ post_date: 2017-11-12 20:40:52
             </div>
 
 	</div> <!--#intro-->
+<script type="text/javascript">
+
+   jQuery(document).ready(function(){
+
+	jQuery('#intro').parallax("50%", 0.4);
+
+   });
+
+</script>
