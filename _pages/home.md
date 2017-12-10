@@ -20,7 +20,6 @@ post_date: 2017-11-12 20:40:52
 </div>
 <div id="intro2">
 <div class="wrap_1280">
-<div class="space"></div>
 <h1 class="intro-tagline">Testimonials<br /><br />
 </h1>
 
