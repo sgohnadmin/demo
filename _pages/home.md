@@ -10,15 +10,11 @@ published: true
 post_date: 2017-11-12 20:40:52
 ---
 <div id="intro">
-            <div class="wrap_1280">
-               
-                <h1 class="intro-tagline">
-                     <img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/bricks.jpg" alt="" width="100%" height="3029" class="alignnone size-full wp-image-128" />
-                </h1>
-
-            </div>
-
-	</div> <!--#intro-->
+<div class="wrap_1280">
+<h1 class="intro-tagline"><img class="alignnone size-full wp-image-128" src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/bricks.jpg" alt="" width="100%" /></h1>
+</div>
+</div>
+<!--#intro-->
 <script type="text/javascript">
 
    jQuery(document).ready(function(){
