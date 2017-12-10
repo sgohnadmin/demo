@@ -11,7 +11,7 @@ post_date: 2017-11-12 20:40:52
 ---
 <div id="intro">
 <div class="wrap_1280">
-<div class="logo_image1"></div>
+<div class="space"></div>
 <h1 class="intro-tagline"></h1>
 <div class="logo_image1"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width="600"  class="alignnone size-full wp-image-57" /></div>
 </div>
