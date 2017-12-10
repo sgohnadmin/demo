@@ -22,7 +22,8 @@ post_date: 2017-11-12 20:40:52
 <div class="wrap_1280">
 <h1 class="intro-tagline">Testimonials<br /><br />
 </h1>
-
+<div class="layer">
+</div>
 </div>
 </div>
 <!--#intro-->
