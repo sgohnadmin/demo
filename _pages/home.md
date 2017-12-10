@@ -27,9 +27,11 @@ post_date: 2017-11-12 20:40:52
 </h1>
 </div>
 </div>
-<div id="intro2">
+</div>
+<div id="intro3">
 <div class="wrap_1280">
 <div class="layerdark-black"><h3 class="intro-tagline"><p class="intro-text">OUR MISSION</p><br />
+</div>
 </div>
 </div>
 <!--#intro-->
