@@ -26,8 +26,7 @@ post_date: 2017-11-12 20:40:52
 </p><br />
 </h1>
 </div>
-<div class="layerdark-black">
-<h3 class="intro-tagline"><p class="intro-text">OUR MISSION</p><br />
+<div class="layerdark-black"><h3 class="intro-tagline"><p class="intro-text">OUR MISSION</p><br />
 </div>
 </div>
 <!--#intro-->
