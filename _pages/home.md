@@ -13,7 +13,7 @@ post_date: 2017-11-12 20:40:52
             <div class="wrap_1280">
                
                 <h1 class="intro-tagline">
-                     <img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/bricks.jpg" alt="" width="1152" height="3029" class="alignnone size-full wp-image-128" />
+                     <img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/bricks.jpg" alt="" width="100%" height="3029" class="alignnone size-full wp-image-128" />
                 </h1>
 
             </div>
