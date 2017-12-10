@@ -20,7 +20,7 @@ post_date: 2017-11-12 20:40:52
 </div>
 <div id="intro2">
 <div class="wrap_1280">
-<div class="no-layer"></div>
+<div class="nolayer"></div>
 <div class="layer">
 <h3 class="intro-tagline"><p class="intro-text">Lorem ipsum dolor. Sit amet sit nec arcu nec et odio mattis. Pellentesque gravida dapibus dui varius qui suspendisse orci id. Id dignissim nunc. Pretium turpis eu. Enim porttitor in vitae velit est erat eros at. Nullam tortor iaculis. Risus neque lectus. Neque est felis donec viverra non. In aliquam non duis aenean suspendisse. Quis erat mauris et enim consequat est donec adipiscing. Mus iaculis ullamcorper luctus elit dictum. Odio conubia laoreet. 
 </p><br />
