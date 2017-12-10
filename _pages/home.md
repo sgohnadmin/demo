@@ -11,7 +11,7 @@ post_date: 2017-11-12 20:40:52
 ---
 <div id="intro">
 <div class="wrap_1280">
-<h1 class="intro-tagline">weeeeee</h1>
+<h1 class="intro-tagline"><FONT COLOR="WHITE">weeeeee</h1>
 
 </div>
 </div>
