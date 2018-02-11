@@ -27,7 +27,7 @@ post_date: 2017-11-12 20:47:27
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
 <li>
-<span style="border-radius: 50%;"><a href="https://placehold.it/300x300&text=[img]"><img data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></span>
+<span style="border-radius: 50%"><a href="https://placehold.it/300x300&text=[img]"><img data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></span>
 </li>
 <li>
 <a href="https://placehold.it/300x300&text=[img]"><img data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
