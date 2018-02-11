@@ -26,6 +26,14 @@ post_date: 2017-11-12 20:47:27
 <div class="large-12 columns">
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
+<nav class="top-bar" data-topbar>
+  <ul class="title-area">
+    <li class="name">
+        <a href="#"><img src="http://placehold.it/150x110" /></a>
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
 <li>
 <a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></img>
 </li>
