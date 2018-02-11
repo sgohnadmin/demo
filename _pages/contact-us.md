@@ -30,10 +30,10 @@ post_date: 2017-11-12 20:47:27
 <a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></img>
 </li>
 <li>
-<a href="https://placehold.it/300x300&text=[img]"><img data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
 </li>
 <li>
-<a href="https://placehold.it/300x300&text=[img]"><img data-caption="caption 3 here..." src="https://placehold.it/300x300&text=[img]"></a>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/300x300&text=[img]"></a>
 </li>
 </ul>
 </div>
