@@ -23,20 +23,6 @@ post_date: 2017-11-12 20:43:36
 </head>
 <body>
 
-<div class="row">
-<div class="large-12 columns">
-<img src="https://placehold.it/1000x500&text=[banner img]">
-</div>
-</div>
-<div class="row">
-<hr>
-
-<div class="large-4 columns">
-<img src="https://placehold.it/400x300&text=[img]">
-</div>
-</div>
-<div class="row">
-<hr>
 <div class="large-12 columns">
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-2 large-block-grid-4" data-clearing>
@@ -61,39 +47,7 @@ post_date: 2017-11-12 20:43:36
 </ul>
 </div>
 </div>
-<div class="row">
-<div class="large-12 columns">
-<hr>
-<h4>Contact Me</h4>
-<div class="large-4 columns">
-Email: me@myportfolio.com
-</div>
-<div class="large-4 columns">
-Twitter: @twitterhandle
-</div>
-<div class="large-4 columns">
-Phone: 555-555-1234
-</div>
-</div>
-</div>
-<footer class="row">
-<div class="large-12 columns">
-<hr />
-<div class="row">
-<div class="large-6 columns">
-<p>© Copyright no one at all. Go to town.</p>
-</div>
-<div class="large-6 columns">
-<ul class="inline-list right">
-<li><a href="#">Link 1</a></li>
-<li><a href="#">Link 2</a></li>
-<li><a href="#">Link 3</a></li>
-<li><a href="#">Link 4</a></li>
-</ul>
-</div>
-</div>
-</div>
-</footer>
+
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
 <script>
