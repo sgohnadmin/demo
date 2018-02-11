@@ -27,10 +27,10 @@ post_date: 2017-11-12 20:47:27
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-2 large-block-grid-4" data-clearing>
 <li>
-<a href="https://placehold.it/800x500&text=[img]"><img data-caption="caption here..." src="https://placehold.it/800x500&text=[img]"></a>
+<a href="https://placehold.it/300x300&text=[img]"><img data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a>
 </li>
 <li>
-<a href="https://placehold.it/800x500&text=[img]"><img data-caption="caption 2 here..." src="https://placehold.it/800x500&text=[img]"></a>
+<a href="https://placehold.it/300x300&text=[img]"><img data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
 </li>
 <li>
 <a href="https://placehold.it/800x500&text=[img]"><img data-caption="caption 3 here..." src="https://placehold.it/800x500&text=[img]"></a>
