@@ -9,12 +9,12 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
-<div class="row" width=100%>
+<div class="row expanded">
 <div class="large-12 columns">
 <img src="https://placehold.it/1920x500&text=[banner img]">
 </div>
 </div>
-<div class="row" width=100%>
+<div class="row expanded">
 <hr>
 <div class="large-8 columns">
 <h4>About</h4>
