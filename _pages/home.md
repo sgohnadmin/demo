@@ -11,7 +11,7 @@ post_date: 2017-11-12 20:40:52
 ---
 <div class="row">
 <div class="large-12 columns">
-<img src="https://placehold.it/1000x500&text=[banner img]">
+<img src="https://placehold.it/1920x500&text=[banner img]">
 </div>
 </div>
 <div class="row" width=100%>
