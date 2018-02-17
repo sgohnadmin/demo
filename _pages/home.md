@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
-<img class = "intro">src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/SARDINAS.jpg">
+<img src "http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/SARDINAS.jpg">
  
 
 <div class="row expanded">
