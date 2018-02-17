@@ -13,7 +13,7 @@ post_date: 2017-11-12 20:40:52
  
 
 <div class="row expanded">
-<hr>
+<img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/SARDINAS.jpg" class = "intro">
 <div class="large-8 columns">
 <h4>About</h4>
 <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
