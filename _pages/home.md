@@ -11,7 +11,7 @@ post_date: 2017-11-12 20:40:52
 ---
 <div class="row expanded">
 <div class="large-12 columns">
- background:url(http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/SARDINAS.jpg) no-repeat center center fixed; 
+<img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/SARDINAS.jpg">
    
 </div>
 </div>
