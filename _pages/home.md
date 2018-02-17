@@ -9,6 +9,23 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
+<div class="row">
+<div class="large-12 columns">
+<img src="https://placehold.it/1000x500&text=[banner img]">
+</div>
+</div>
+<div class="row">
+<hr>
+<div class="large-8 columns">
+<h4>About</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+<i class="fi-social-twitter"></i>
+</div>
+<div class="large-4 columns">
+<img src="https://placehold.it/400x300&text=[img]">
+</div>
+</div>
+<div class="row">
 <div id="intro">
 <div class="wrap_1280">
 <div class="space"></div>
