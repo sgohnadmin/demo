@@ -9,12 +9,29 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
+<div class="row">
+<div class="large-12 columns">
+<img src="https://placehold.it/1920x500&text=[banner img]">
+</div>
+</div>
+<div class="row" width=100%>
+<hr>
+<div class="large-8 columns">
+<h4>About</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+<i class="fi-social-twitter"></i>
+</div>
+<div class="large-4 columns">
+<img src="https://placehold.it/400x300&text=[img]">
+</div>
+</div>
+<div class="row">
 <div id="intro">
 <div class="wrap_1280">
 <div class="space"></div>
 <h3 class="intro-tagline"></h1>
 <div class="space"></div>
-<div class="logo_image1"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width="60%"  class="alignnone size-full wp-image-57" /></div>
+<div class="logo_image1"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width=""  class="alignnone size-full wp-image-57" /></div>
 </div>
 
 </div>
@@ -23,28 +40,11 @@ post_date: 2017-11-12 20:40:52
 
   <div class="nolayer"></div>
   <div class="layer">
-   <h1 class="intro-tagline"><p class="intro-text">Testimonials<br /><br />
+   <h3 class="intro-tagline"><p class="intro-text">Testimonials<br /><br />
   </p><br />
-  </h1>
-<div class="large-12 columns">
-<center>
-<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-4 large-block-grid-4" data-clearing>
-
-<li>
-<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-</li>
-<li>
-<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a>
-</li>
-<li>
-<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/100x100&text=[img]"></a>
-</li>
-</ul></center>
-</div>
+  </h3>
   </div>
   </div>
-</div>
-
 </div>
 </div>
 
@@ -62,6 +62,22 @@ post_date: 2017-11-12 20:40:52
 
 <h3 class="intro-tagline">
    <p class="intro-text">OUR DOCTORS</p><br />
+<div class="large-12 columns">
+
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
+
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></img>
+</li>
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
+</li>
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/300x300&text=[img]"></a>
+</li>
+</ul>
+</div>
+</div>
 </div>
 
 </div>
