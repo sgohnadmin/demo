@@ -27,7 +27,7 @@ post_date: 2017-11-12 20:40:52
   </p><br />
   </h3>
 <div class="large-12 columns">
-
+<center>
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
 
 <li>
@@ -39,7 +39,7 @@ post_date: 2017-11-12 20:40:52
 <li>
 <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/100x100&text=[img]"></a>
 </li>
-</ul>
+</ul></center>
 </div>
   </div>
   </div>
