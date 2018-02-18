@@ -23,7 +23,7 @@ post_date: 2017-11-12 20:40:52
 
   <div class="nolayer"></div>
   <div class="layer">
-   <h3 class="intro-tagline"><p class="intro-text">Testimonials<br /><br />
+   <h2 class="intro-tagline"><p class="intro-text">Testimonials<br /><br />
   </p><br />
   </h3>
   </div>
