@@ -58,11 +58,15 @@ post_date: 2017-11-12 20:40:52
 </div>
 </div>
 
-<div id="intro4">
+<div id="intro2">
 <div class="wrap_1280">
 
-<h3 class="intro-tagline">
-   <p class="intro-text">OUR DOCTORS</p><br />
+  <div class="nolayer"></div>
+  <div class="layer">
+   <h1 class="intro-tagline"><p class="intro-text">OUR DOCTORS<br /><br />
+  </p><br />
+  </h1>
+<center>
 <div class="large-12 columns">
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
