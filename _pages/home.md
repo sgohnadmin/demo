@@ -57,6 +57,7 @@ post_date: 2017-11-12 20:40:52
 
 </div>
 </div>
+
 <div id="intro4">
 <div class="wrap_1280">
 
