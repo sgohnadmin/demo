@@ -23,7 +23,7 @@ post_date: 2017-11-12 20:40:52
 
   <div class="nolayer"></div>
   <div class="layer">
-   <h2 class="intro-tagline"><p class="intro-text">Testimonials</h2><br />Testimonials</h1><br /><center>
+   <h1 class="intro-tagline">TESTIMONIALS</h1><br /><center>
    "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and 
 professional. I always feel comfortable and well attended to when there." <br />
  -Kevin Duffy</p><br />
