@@ -9,51 +9,42 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
+<img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/SARDINAS.jpg" class = "intro">
+ 
+
+<div class="row expanded">
+<img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/12/SARDINAS.jpg" class = "intro">
+<div class="large-8 columns">
+<h4>About</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+<i class="fi-social-twitter"></i>
+</div>
+<div class="large-4 columns">
+<img src="https://placehold.it/400x300&text=[img]">
+</div>
+</div>
+<div class="row">
 <div id="intro">
 <div class="wrap_1280">
-
 <div class="space"></div>
-
-<h1 class="intro-tagline"></h1>
-
+<h3 class="intro-tagline"></h1>
 <div class="space"></div>
-
-<div class="logo_image1"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width="60%"  class="alignnone size-full wp-image-57" /></div>
-
-</div>
+<div class="logo_image1"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width=""  class="alignnone size-full wp-image-57" /></div>
 </div>
 
+</div>
 <div id="intro2">
 <div class="wrap_1280">
 
   <div class="nolayer"></div>
-  
   <div class="layer">
-   <h1 class="intro-tagline"><p class="intro-text">Testimonials</h1><br /><center>
-   "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and 
-professional. I always feel comfortable and well attended to when there." <br />
- -Kevin Duffy</center>
-
+   <h3 class="intro-tagline"><p class="intro-text">Testimonials<br /><br />
   </p><br />
- 
-  
-<div class="large-12 columns">
-<center>
-<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
-
-<li>
-<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-</li>
-<li>
-<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a>
-</li>
-</ul></center>
-   </div>
+  </h3>
   </div>
   </div>
 </div>
-
-
+</div>
 
 <div id="intro3">
 <div class="wrap_1280">
@@ -64,16 +55,11 @@ professional. I always feel comfortable and well attended to when there." <br /
 
 </div>
 </div>
-
-<div id="intro2">
+<div id="intro4">
 <div class="wrap_1280">
 
-  <div class="nolayer"></div>
-  <div class="layer">
-   <h1 class="intro-tagline"><p class="intro-text">OUR DOCTORS<br /><br />
-  </p><br />
-  </h1>
-<center>
+<h3 class="intro-tagline">
+   <p class="intro-text">OUR DOCTORS</p><br />
 <div class="large-12 columns">
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
@@ -88,6 +74,7 @@ professional. I always feel comfortable and well attended to when there." <br /
 <a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/300x300&text=[img]"></a>
 </li>
 </ul>
+</div>
 </div>
 </div>
 
