@@ -60,16 +60,24 @@ professional. I always feel comfortable and well attended to when there." <br /
 
 <div class="layerdark-black"><h3 class="intro-tagline">
    <p class="intro-text">OUR MISSION</p><br />
+   
+<center>With recent advancements in modern dental care, there are more options than ever before. 
+We believe that part of our job is to provide all of the information you need to confidently decide 
+upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, 
+and advanced cosmetic dentistry. 
+
+Our passion is to provide affordable and excellent dental care to you and your entire family 
+in a comfortable and professional environment, and we genuinely look forward to serving you.</center>
+
+To healthy smiles!
 </div>
 
 </div>
 </div>
 
-<div id="intro2">
+<div id="intro4">
 <div class="wrap_1280">
 
-  <div class="nolayer"></div>
-  <div class="layer">
    <h1 class="intro-tagline"><p class="intro-text">OUR DOCTORS<br /><br />
   </p><br />
   </h1>
