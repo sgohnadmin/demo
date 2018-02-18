@@ -23,12 +23,12 @@ post_date: 2017-11-12 20:40:52
 
   <div class="nolayer"></div>
   <div class="layer">
-   <h2 class="intro-tagline"><p class="intro-text">Testimonials<br /><br />
+   <h1 class="intro-tagline"><p class="intro-text">Testimonials<br /><br />
   </p><br />
-  </h3>
+  </h1>
 <div class="large-12 columns">
 <center>
-<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-4 large-block-grid-4" data-clearing>
 
 <li>
 <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
