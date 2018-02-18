@@ -29,6 +29,22 @@ post_date: 2017-11-12 20:40:52
   </div>
   </div>
 </div>
+<div class="large-12 columns">
+
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-2 large-block-grid-2" data-clearing>
+
+<li>
+<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
+</li>
+<li>
+<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a>
+</li>
+<li>
+<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/100x100&text=[img]"></a>
+</li>
+</ul>
+</div>
+</div>
 </div>
 
 <div id="intro3">
