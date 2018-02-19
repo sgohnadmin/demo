@@ -23,7 +23,7 @@ post_date: 2017-11-12 20:40:52
 
   <div class="nolayer">
   
-   <h1 class="intro-tagline"><br /><br /><br />TESTIMONIALS</h1><br /><center><p class="intro-text">
+   <h1 class="intro-tagline"><br />TESTIMONIALS</h1><br /><center><p class="intro-text">
    "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and 
 professional. I always feel comfortable and well attended to when there." <br />
  -Kevin Duffy</p><br />
@@ -53,7 +53,7 @@ professional. I always feel comfortable and well attended to when there." <br /
 <div id="intro3">
 <div class="wrap_1280">
 
-<div class="layerdark-black"><br /><br /><br /><h1 class="intro-tagline">OUR MISSION</h1><br /><center><p class="intro-text">
+<div class="layerdark-black"><br /><h1 class="intro-tagline">OUR MISSION</h1><br /><center><p class="intro-text">
 With recent advancements in modern dental care, there are more options than ever before. 
 We believe that part of our job is to provide all of the information you need to confidently decide 
 upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, 
