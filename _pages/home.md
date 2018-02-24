@@ -86,7 +86,7 @@ post_date: 2017-11-12 20:40:52
 
    jQuery(document).ready(function(){
 
-	jQuery('#intro').parallax("50%", 0.2);
+	jQuery('#intro').parallax("50%", 0.8);
 
    });
 
