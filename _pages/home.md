@@ -26,7 +26,7 @@ post_date: 2017-11-12 20:40:52
              
            <p class="intro-text">
              "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and  professional. I always feel comfortable and well attended to when there." <br />
-            -Kevin Duffy </p> <button type="button" class="success button">LEARN MORE</button>
+            -Kevin Duffy </p> <button type="button" class="success button" align="right">LEARN MORE</button>
        
                       
              <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
@@ -49,8 +49,7 @@ post_date: 2017-11-12 20:40:52
            <div class="layerdark-black"><br /><br /><br />
                 <h1 class="intro-tagline">OUR MISSION</h1><br />
                   <center><p class="intro-text">
-                   With recent advancements in modern dental care, there are more options than ever before. 
-                   We believe that part of our job is to provide all of the information you need to confidently decide upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, and advanced cosmetic dentistry. <br /><br />Our passion is to provide affordable and excellent dental care to you and your entire family in a comfortable and professional environment, and we genuinely look forward to serving you. To healthy smiles!</center></p>
+                   With recent advancements in modern dental care, there are more options than ever before. We believe that part of our job is to provide all of the information you need to confidently decide upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, and advanced cosmetic dentistry. <br /><br />Our passion is to provide affordable and excellent dental care to you and your entire family in a comfortable and professional environment, and we genuinely look forward to serving you. To healthy smiles!</center></p>
             </div>
            </div>
        </div>
