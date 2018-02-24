@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-12 20:40:52
 ---
+<div id="background">
 <div id="intro">
 <div class="wrap_1280">
 <div class="space"></div>
@@ -65,6 +66,7 @@ in a comfortable and professional environment, and we genuinely look forward to 
 To healthy smiles!</p>
 </div>
 
+</div>
 </div>
 </div>
 <div id="intro4">
