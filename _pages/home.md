@@ -116,6 +116,38 @@ To healthy smiles!</p>
 </ul>
 </div>
 </div>
+<div class="row">
+<div class="large-12 columns">
+<hr>
+<h4>Contact Me</h4>
+<div class="large-4 columns">
+Email: me@myportfolio.com
+</div>
+<div class="large-4 columns">
+Twitter: @twitterhandle
+</div>
+<div class="large-4 columns">
+Phone: 555-555-1234
+</div>
+</div>
+</div>
+<footer class="row">
+<div class="large-12 columns">
+<hr />
+<div class="row">
+<div class="large-6 columns">
+<p>© Copyright no one at all. Go to town.</p>
+</div>
+<div class="large-6 columns">
+<ul class="inline-list right">
+<li><a href="#">Link 1</a></li>
+<li><a href="#">Link 2</a></li>
+<li><a href="#">Link 3</a></li>
+<li><a href="#">Link 4</a></li>
+</ul>
+</div>
+</div>
+</div>
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
