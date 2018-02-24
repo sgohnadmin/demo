@@ -50,6 +50,17 @@ post_date: 2017-11-12 20:40:52
                 <h1 class="intro-tagline">OUR MISSION</h1><br />
                   <center><p class="intro-text">
                    With recent advancements in modern dental care, there are more options than ever before. We believe that part of our job is to provide all of the information you need to confidently decide upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, and advanced cosmetic dentistry. <br /><br />Our passion is to provide affordable and excellent dental care to you and your entire family in a comfortable and professional environment, and we genuinely look forward to serving you. To healthy smiles!</center></p>
+<div class="row">
+<hr>
+<div class="large-8 columns">
+<h4>About</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+<i class="fi-social-twitter"></i>
+</div>
+<div class="large-4 columns">
+<img src="https://placehold.it/400x300&text=[img]">
+</div>
+</div>
             </div>
            </div>
        </div>
