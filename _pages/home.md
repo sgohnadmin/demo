@@ -81,7 +81,7 @@ To healthy smiles!</p>
 
    jQuery(document).ready(function(){
 
-	jQuery('#intro').parallax("50%", 0.4);
+	jQuery('#intro').parallax("70%", 0.4);
 
    });
 
