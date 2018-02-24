@@ -10,48 +10,51 @@ published: true
 post_date: 2017-11-12 20:40:52
 ---
 <div class="backgroundbricks">
-<div id="intro">
-<div class="wrap_1280">
-<div class="space"></div>
-<h3 class="intro-tagline"></h1>
-<div class="space"></div>
-<div class="logo_image1"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width="60%"  class="alignnone size-full wp-image-57" /></div>
-</div>
+    <div id="intro">
+       <div class="wrap_1280">
+          <div class="space"></div>
+          <h3 class="intro-tagline"></h1>
+         <div class="space"></div>
+         <div class="logo_image1"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2017/10/cropped-Logo_vFinal.png" alt="" width="60%"  class="alignnone size-full wp-image-57" />
+      </div>
+   </div>
 
-</div>
-<div id="intro2">
-<div class="wrap_1280">
-  <div class="layer">
-   <h1 class="intro-tagline"><br /><br /><br />TESTIMONIALS</h1><br /><center><p class="intro-text">
-   "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and 
-professional. I always feel comfortable and well attended to when there." <br />
- -Kevin Duffy</p><br />
- <br />
+
+   <div id="intro2">
+     <div class="wrap_1280">
+      <div class="layer">
+       <h1 class="intro-tagline"><br /><br /><br />TESTIMONIALS</h1><br />
+             
+           <center><p class="intro-text">
+             "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and 
+             professional. I always feel comfortable and well attended to when there." <br />
+            -Kevin Duffy</p><br /> <br />
+
  
-<div class="large-12 columns">
+             <div class="large-12 columns">
 
-<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
+             <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
 
-<li>
-<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-</li>
-<li>
-<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a>
-</li>
+                  <li>
+                  <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
+                  </li>
+                  <li>
+                  <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a>
+                  </li>
 
-</ul>
-</center>
-</div>
-  </div>
-  </div>
-</div>
+            </ul>
+           </div>
 
-</div>
-</div>
+         </center>
+           
+      </div>
+     </div>
+   </div>
+
+
 
 <div id="intro3">
 <div class="wrap_1280">
-
 <div class="layerdark-black"><br /><br /><br /><h1 class="intro-tagline">OUR MISSION</h1><br /><center><p class="intro-text">
 With recent advancements in modern dental care, there are more options than ever before. 
 We believe that part of our job is to provide all of the information you need to confidently decide 
