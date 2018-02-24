@@ -53,38 +53,40 @@ post_date: 2017-11-12 20:40:52
 
 
 
-<div id="intro3">
-<div class="wrap_1280">
-<div class="layerdark-black"><br /><br /><br /><h1 class="intro-tagline">OUR MISSION</h1><br /><center><p class="intro-text">
-With recent advancements in modern dental care, there are more options than ever before. 
-We believe that part of our job is to provide all of the information you need to confidently decide 
-upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, 
-and advanced cosmetic dentistry. 
+   <div id="intro3">
+       <div class="wrap_1280">
+           <div class="layerdark-black"><br /><br /><br />
+                <h1 class="intro-tagline">OUR MISSION</h1><br />
+                  <center><p class="intro-text">
+                   With recent advancements in modern dental care, there are more options than ever before. 
+                   We believe that part of our job is to provide all of the information you need to confidently decide 
+                   upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, 
+                   and advanced cosmetic dentistry. 
 
-Our passion is to provide affordable and excellent dental care to you and your entire family 
-in a comfortable and professional environment, and we genuinely look forward to serving you.
+                  Our passion is to provide affordable and excellent dental care to you and your entire family 
+                  in a comfortable and professional environment, and we genuinely look forward to serving you.
 
-To healthy smiles!</p>
-</div>
+                  To healthy smiles!</center></p>
+            </div>
 
-</div>
-</div>
-</div>
-<div id="intro4">
-<div class="wrap_1280">
+       </div>
+   </div>
 
-<h3 class="intro-tagline">
-   <p class="intro-text">OUR DOCTORS</p><br />
-</div>
+    <div id="intro4">
+         <div class="wrap_1280">
 
-</div>
+            <h3 class="intro-tagline">
+                <p class="intro-text">OUR DOCTORS</p><br />
+         </div>
+
+    </div>
 </div>
 <!--#intro-->
 <script type="text/javascript">
 
    jQuery(document).ready(function(){
 
-	jQuery('#intro').parallax("70%", 0.4);
+	jQuery('#intro').parallax("50%", 0.2);
 
    });
 
