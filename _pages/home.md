@@ -51,10 +51,10 @@ post_date: 2017-11-12 20:40:52
                   <center><p class="intro-text2">
                    With recent advancements in modern dental care, there are more options than ever before. We believe that part of our job is to provide all of the information you need to confidently decide upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, and advanced cosmetic dentistry. </center></p><br /><center><p class="intro-text2">Our passion is to provide affordable and excellent dental care to you and your entire family in a comfortable and professional environment, and we genuinely look forward to serving you. </center></p>
 <div class="row">
-<div class="large-8 columns">
+<div class="large-6 columns">
 <p class="intro-text">To healthy smiles!</p>
 </div>
-<div class="large-4 columns">
+<div class="large-6 columns">
 <img src="https://placehold.it/400x300&text=[img]">
 </div>
 </div>
