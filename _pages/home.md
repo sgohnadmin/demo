@@ -20,7 +20,7 @@ post_date: 2017-11-12 20:40:52
    </div>
 
 
-   <div id="intro2">
+ 
      <div class="wrap_1280">
       <div class="layer">
        <h1 class="intro-tagline"><br /><br /><br />TESTIMONIALS</h1><br />
@@ -49,11 +49,11 @@ post_date: 2017-11-12 20:40:52
            
       </div>
      </div>
-   </div>
+ 
 
 
 
-   <div id="intro3">
+ 
        <div class="wrap_1280">
            <div class="layerdark-black"><br /><br /><br />
                 <h1 class="intro-tagline">OUR MISSION</h1><br />
@@ -70,16 +70,16 @@ post_date: 2017-11-12 20:40:52
             </div>
 
        </div>
-   </div>
 
-    <div id="intro4">
+
+    
          <div class="wrap_1280">
 
             <h3 class="intro-tagline">
                 <p class="intro-text">OUR DOCTORS</p><br />
          </div>
 
-    </div>
+   
 </div>
 <!--#intro-->
 <script type="text/javascript">
