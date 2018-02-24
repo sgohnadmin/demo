@@ -24,15 +24,14 @@ post_date: 2017-11-12 20:40:52
       <div class="layer">
          <h1 class="intro-tagline">TESTIMONIALS</h1><br />
              
-           <center><p class="intro-text">
-             "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and 
-             professional. I always feel comfortable and well attended to when there." <br />
+           <p class="intro-text">
+             "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and  professional. I always feel comfortable and well attended to when there." <br />
             -Kevin Duffy</p>
     
 
  
-      <div class="large-12 columns">
-             <div class="layer">
+     
+             
              <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
 
                   <li>
@@ -43,10 +42,10 @@ post_date: 2017-11-12 20:40:52
                   </li>
 
             </ul>
-</
-           </div>
 
-         </center>
+        
+
+        
            
       </div>
      </div>
