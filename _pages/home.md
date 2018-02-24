@@ -55,7 +55,7 @@ post_date: 2017-11-12 20:40:52
 <p class="intro-text">To healthy smiles!</p>
 </div>
 <div class="large-6 columns">
-<img src="https://placehold.it/400x300&text=[img]">
+<img src="https://placehold.it/400x250&text=[img]">
 </div>
 </div>
             </div>
