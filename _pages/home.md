@@ -43,8 +43,6 @@ post_date: 2017-11-12 20:40:52
      
      </div>
    </div>
- 
- 
        <div class="wrap_1280">
             <div id="intro3">
                 <h1 class="intro-tagline">OUR MISSION</h1><br />
@@ -90,7 +88,7 @@ post_date: 2017-11-12 20:40:52
 <div class="large-12 columns">
 <ul class="clearing-thumbs small-block-grid-2 medium-block-grid-6 large-block-grid-6" data-clearing>
 <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></li>
-<li><br /><br /><br />some info</li>
+<li>some info</li>
 <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></img>
 </li>
 <li>some info
