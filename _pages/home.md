@@ -46,7 +46,7 @@ post_date: 2017-11-12 20:40:52
  
  
        <div class="wrap_1280">
-           <div class="layerdark-black"><br /><br /><br />
+            <div id="intro3">
                 <h1 class="intro-tagline">OUR MISSION</h1><br />
                   <center><p class="intro-text2">
                    With recent advancements in modern dental care, there are more options than ever before. We believe that part of our job is to provide all of the information you need to confidently decide upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, and advanced cosmetic dentistry. </center></p><br /><center><p class="intro-text2">Our passion is to provide affordable and excellent dental care to you and your entire family in a comfortable and professional environment, and we genuinely look forward to serving you. </center></p>
