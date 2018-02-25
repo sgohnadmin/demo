@@ -86,7 +86,7 @@ post_date: 2017-11-12 20:40:52
          <h1 class="intro-tagline">SERVICES</h1>
           
 <div class="large-centered columns">
-<ul class="clearing-thumbs small-block-grid-2 medium-block-grid-6 large-block-grid-6" data-clearing>
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
 <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></li>
 <li>some info</li>
 <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></img>
