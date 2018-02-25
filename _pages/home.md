@@ -30,7 +30,7 @@ post_date: 2017-11-12 20:40:52
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
 <li></li>
-<li></li><li></li>
+<li></li>
 <li>
 <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
 </li>
