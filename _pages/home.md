@@ -62,7 +62,7 @@ post_date: 2017-11-12 20:40:52
 
     
          <div class="wrap_1280">
-    
+            <div id="intro4">
             <h1 class="intro-tagline">OUR DOCTORS</p><div class="large-12 columns">
 
 <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
@@ -77,6 +77,7 @@ post_date: 2017-11-12 20:40:52
 <a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/300x300&text=[img]"></a>
 </li>
 </ul>
+</div>
 </div>
 </div>
 <div id="intro2">
