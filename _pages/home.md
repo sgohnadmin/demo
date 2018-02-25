@@ -113,6 +113,21 @@ post_date: 2017-11-12 20:40:52
 
    
 </div>
+<div class="row">
+<div class="large-12 columns">
+<hr>
+<h4>Contact Me</h4>
+<div class="large-4 columns">
+Email: me@myportfolio.com
+</div>
+<div class="large-4 columns">
+Twitter: @twitterhandle
+</div>
+<div class="large-4 columns">
+Phone: 555-555-1234
+</div>
+</div>
+</div>
 <form>
   <div class="row">
     <div class="small-8">
