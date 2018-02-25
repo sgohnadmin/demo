@@ -110,24 +110,6 @@ post_date: 2017-11-12 20:40:52
    </div>
 
          
-
-   
-</div>
-<div class="row">
-<div class="large-12 columns">
-<hr>
-<h4>Contact Me</h4>
-<div class="large-4 columns">
-Email: me@myportfolio.com
-</div>
-<div class="large-4 columns">
-Twitter: @twitterhandle
-</div>
-<div class="large-4 columns">
-Phone: 555-555-1234
-</div>
-</div>
-</div>
 <form>
   <div class="row">
     <div class="small-8">
@@ -142,12 +124,12 @@ Phone: 555-555-1234
     </div>
   </div>
 </form>
-<footer class="marketing-site-footer">
+<footer class="sd-site-footer">
   <div class="row medium-unstack">
     <div class="medium-4 columns">
-      <h4 class="marketing-site-footer-name">Yeti Snowcone</h4>
+      <h4 class="marketing-site-footer-name">24/7 Emergency Care<br />(717) 898-7221</h4>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita dolorem accusantium architecto id quidem, itaque nesciunt quam ducimus atque.</p>
-      <ul class="menu marketing-site-footer-menu-social simple">
+      <ul class="menu sd-site-footer-menu-social simple">
         <li><a href="#"><i class="fa fa-youtube-square" aria-hidden="true"></i></a></li>
          <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
          <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
