@@ -26,9 +26,19 @@ post_date: 2017-11-12 20:40:52
            <p class="intro-text">
              "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and  professional. I always feel comfortable and well attended to when there." <br />
             -Kevin Duffy </p> <div class="totheright"><button>LEARN MORE</button></div><br />
-<div id="tothecenter"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></img><a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-                  
-           </div>
+<div class="large-12 columns">
+
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-4 large-block-grid-4" data-clearing>
+
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></img>
+</li>
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
+</li>
+
+</ul>
+</div>
       </div>
      </div>
    </div>
