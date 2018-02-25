@@ -21,46 +21,95 @@ post_date: 2017-11-12 20:40:52
   </div>
     <div id="intro2">
      <div class="wrap_1280">
-      <div class="layer">
-         <h1 class="intro-tagline">TESTIMONIALS</h1><br />
-             
+      
+         <h1 class="intro-tagline">TESTIMONIALS</h1>
            <p class="intro-text">
              "No need to be nervous about going to the dentist. Dr. Sardina and his staff are very friendly and  professional. I always feel comfortable and well attended to when there." <br />
-            -Kevin Duffy </p> <button type="button" class="success button" align="right">LEARN MORE</button>
-       
-                      
-             <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
+            -Kevin Duffy </p> <div class="totheright"><button>LEARN MORE</button></div><br />
+<div class="large-12 columns">
 
-                  <li>
-                  <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-                  </li>
-                  <li>
-                  <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-                  </li>
-
-            </ul>      
-           
-      </div>
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-6 large-block-grid-6" data-clearing>
+<li></li>
+<li></li>
+<li>
+<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
+</li>
+<li>
+<a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a>
+</li>
+<li></li><li></li><li></li>
+</ul>
+</div>
+     
      </div>
    </div>
- 
- 
        <div class="wrap_1280">
-           <div class="layerdark-black"><br /><br /><br />
+            <div id="intro3">
                 <h1 class="intro-tagline">OUR MISSION</h1><br />
-                  <center><p class="intro-text">
-                   With recent advancements in modern dental care, there are more options than ever before. We believe that part of our job is to provide all of the information you need to confidently decide upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, and advanced cosmetic dentistry. <br /><br />Our passion is to provide affordable and excellent dental care to you and your entire family in a comfortable and professional environment, and we genuinely look forward to serving you. To healthy smiles!</center></p>
+                  <center><p class="intro-text2">
+                   With recent advancements in modern dental care, there are more options than ever before. We believe that part of our job is to provide all of the information you need to confidently decide upon a variety of individualized treatment options, from basic dental care to orthodontics, oral surgery, and advanced cosmetic dentistry. </center></p><br /><center><p class="intro-text2">Our passion is to provide affordable and excellent dental care to you and your entire family in a comfortable and professional environment, and we genuinely look forward to serving you. </center></p>
+<div class="row">
+<div class="large-6 columns">
+<p class="intro-text">To healthy smiles!</p>
+</div>
+<div class="large-6 columns">
+<img src="https://placehold.it/400x250&text=[img]">
+</div>
+</div>
             </div>
            </div>
-   
+       </div>
 
 
     
          <div class="wrap_1280">
+    
+            <h1 class="intro-tagline">OUR DOCTORS</p><div class="large-12 columns">
 
-            <h3 class="intro-tagline">
-                <p class="intro-text">OUR DOCTORS</p><br />
-         </div>
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
+
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></img>
+</li>
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
+</li>
+<li>
+<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/300x300&text=[img]"></a>
+</li>
+</ul>
+</div>
+</div>
+<div id="intro2">
+     <div class="wrap_1280">
+      
+         <h1 class="intro-tagline">SERVICES</h1>
+          
+<div class="large-12 columns">
+<ul class="clearing-thumbs small-block-grid-2 medium-block-grid-6 large-block-grid-6" data-clearing>
+<li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></li>
+<li>some info</li>
+<li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></img>
+</li>
+<li>some info
+</li>
+    <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></li>
+<li>some info</li>
+  <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></li>
+<li>some info
+</li>
+ <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></li>
+<li>some info
+</li> <li><a href="https://placehold.it/175x175&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/175x175&text=[img]"></a></li>
+<li>some info
+</li>
+</ul>
+</div>
+     
+     </div>
+   </div>
+
+         
 
    
 </div>
@@ -88,22 +137,6 @@ post_date: 2017-11-12 20:40:52
 </head>
 <body>
 
-<div class="large-12 columns">
-
-<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
-
-<li>
-<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/300x300&text=[img]"></a></img>
-</li>
-<li>
-<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/300x300&text=[img]"></a>
-</li>
-<li>
-<a href="https://placehold.it/300x300&text=[img]"><img class="doctorphoto" data-caption="caption 3 here..." src="https://placehold.it/300x300&text=[img]"></a>
-</li>
-</ul>
-</div>
-</div>
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
