@@ -28,16 +28,13 @@ post_date: 2017-11-12 20:40:52
             -Kevin Duffy </p> <div class="totheright"><button>LEARN MORE</button></div>
        
                       
-             <div class="tothecenter"><ul>
+             <div class="tothecenter">
 
-                  <li>
+               
                   <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-                  </li>
-                  <li>
+                  
                   <a href="https://placehold.it/100x100&text=[img]"><img class="doctorphoto" data-caption="caption 2 here..." src="https://placehold.it/100x100&text=[img]"></a></img>
-                  </li>
-
-            </ul>      
+                  
            </div>
       </div>
      </div>
