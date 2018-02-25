@@ -113,6 +113,20 @@ post_date: 2017-11-12 20:40:52
 
    
 </div>
+<form>
+  <div class="row">
+    <div class="small-8">
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="right-label" class="right">Label</label>
+        </div>
+        <div class="small-9 columns">
+          <input type="text" id="right-label" placeholder="Inline Text Input">
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
 <!--#intro-->
 <script type="text/javascript">
 
