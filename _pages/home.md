@@ -112,12 +112,13 @@ post_date: 2017-11-12 20:40:52
          
 <form>
   <div class="row">
-    <div class="small-8">
+    <div class="small-12">
       <div class="row">
         <div class="small-3 columns">
+        <div class="small-3 columns"><img src="http://localhost:8888/wordpress/demo/wp-content/uploads/2018/02/office1-300x217.jpg" alt="" width="300" height="217" class="alignnone size-medium wp-image-432" /></div>
           <label for="right-label" class="right">Label</label>
         </div>
-        <div class="small-9 columns">
+        <div class="small-3 columns">
           <input type="text" id="right-label" placeholder="Inline Text Input">
         </div>
       </div>
